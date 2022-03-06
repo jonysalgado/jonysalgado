@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jony</h1>
 <h3 align="center">A passionate Machine Learning from Brazil</h3>
 
-- 🔭 I’m currently working on [machine_learning_tools](https://github.com/jonysalgado/machine_learning_tools)
+- 🔭 I’m currently working on [video-recommender](https://github.com/jonysalgado/video-recommender.git)
 
 - 🌱 I’m currently learning **NLP and Recommendation Systems**
 
